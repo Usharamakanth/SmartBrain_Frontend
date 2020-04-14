@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.getout:link,
+.getout:visited {
+  border-bottom: 2px solid transparent;
+}
+.getout:hover,
+.getout:active {
+  border-bottom: 2px solid orange;
+}
